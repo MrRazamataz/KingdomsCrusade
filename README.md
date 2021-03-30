@@ -1,3 +1,4 @@
+# Moved to https://github.com/KingdomsCrusade
 # KingdomsCrusade
 Minecraft Crossplay Server 
 `IP: play.kingdomscrusade.net` 
